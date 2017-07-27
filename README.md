@@ -1,0 +1,2 @@
+# krawczyk_method
+Krawczyk法による精度保証付き非凸関数最適化の実装
